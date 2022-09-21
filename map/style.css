@@ -1,0 +1,14 @@
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  align-content: center;
+}
+
+#map {
+  margin: auto;
+  width: 70%;
+  height: 70vh;
+}

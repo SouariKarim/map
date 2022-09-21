@@ -1,0 +1,169 @@
+const equipement = {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.171875,
+              4.214943141390651
+            ],
+            [
+              28.828124999999996,
+              4.214943141390651
+            ],
+            [
+              28.828124999999996,
+              24.84656534821976
+            ],
+            [
+              16.171875,
+              24.84656534821976
+            ],
+            [
+              16.171875,
+              4.214943141390651
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8624267578125,
+          27.68352808378776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.052734375,
+          36.43896124085945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.01953125,
+          35.69299463209881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.25048828125,
+          35.33529320309328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.61328125,
+          34.32529192442733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4482421875,
+          34.867904962568716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.942871093749998,
+          36.01356058518153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.2724609375,
+              36.34167804918315
+            ],
+            [
+              9.525146484375,
+              36.075742215627
+            ],
+            [
+              9.931640625,
+              36.31512514748051
+            ],
+            [
+              9.5361328125,
+              36.474306755095235
+            ],
+            [
+              9.33837890625,
+              36.589068371399115
+            ],
+            [
+              9.2724609375,
+              36.34167804918315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.59130859375,
+            35.871246850027966
+          ],
+          [
+            8.800048828125,
+            34.43409789359469
+          ],
+          [
+            9.404296875,
+            34.84987503195418
+          ]
+        ]
+      }
+    }
+  ]
+};
